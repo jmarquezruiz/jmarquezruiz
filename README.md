@@ -1,4 +1,6 @@
+
 # <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/cubo.png" width="35" heigth="35"> Sobre mi
+
 - 👋 Hola, me llamo Juan Antonio Márquez
 - 🌍 Vivo en Granada, España
 - 🙋‍♂️ Estudio un grado superior de Desarrollo de Aplicaciones Web (DAW) y actualmente estoy en segundo curso.
