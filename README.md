@@ -19,6 +19,11 @@
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/py.png" width="100" heigth="100">
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/oracle.png" width="100" heigth="100">
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/php.svg" width="100" heigth="100">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/2560px-Node.js_logo.svg.png" width="100" heigth="100">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/vue.png" width="100" heigth="100">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/AngularJS-Shield.svg" width="100" heigth="100">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/React-icon.svg.png" width="100" heigth="100">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/1200px-Laravel.svg.png" width="100" heigth="100">
 </p>
 <br><br>
 <p align="center">
