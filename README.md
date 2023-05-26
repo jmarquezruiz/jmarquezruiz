@@ -3,7 +3,7 @@
 
 - 👋 Hola, me llamo Juan Antonio Márquez
 - 🌍 Vivo en Granada, España
-- 🙋‍♂️ Estudio un grado superior de Desarrollo de Aplicaciones Web (DAW) y actualmente estoy en segundo curso.
+- 🙋‍♂️ Técnico Superior en Desarrollo de Aplicaciones Web
 - 📫 Para contactarme bymarquezz2@gmail.com
 <br>
 <p align="center">
