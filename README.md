@@ -8,9 +8,10 @@
 <p align="center">
   <em>This is ME, Juan Antonio Marquez, a Full-Stack developer specialised in <b>React and NodeJs</b>, with extensive knowledge in web and mobile applications, rest api, server maintenance and administration and data analysis.</em>
 </p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-antonio-marquez/" target="_blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/174857.png" alt="linkedin" height="40" width="40"/></a>
-   <a href = "mailto: bymarquezz2@gmail.com"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Gmail_icon_(2020).svg.png" height="40" width="50" alt="gmail"/></a>
+  <a href="https://www.linkedin.com/in/juan-antonio-marquez/" target="_blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/174857.png" alt="linkedin" height="40" width="40"/></a>&nbsp;&nbsp;
+   <a href = "mailto: bymarquezz2@gmail.com"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Gmail_icon_(2020).svg.png" height="40" width="50" alt="gmail"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/maarquez_10?igsh=MTQzbW11MTEyajJ0dw%3D%3D&utm_source=qr" target="_blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Logo-Instagram-PNG.png" alt="instagram" height="50" width="50"/></a>
 </p>
 
