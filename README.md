@@ -1,32 +1,39 @@
+<p align="center">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/fondo-header3.png" height="300">
+</p>
+<h1 align="center">💻 Hi, I'm Juan Antonio</h1>
+<h3 align="center">
+  Full Stack Junior Developer | Web & Mobile apps | Deployment & System Server Admin
+</h3>
+<p align="center">
+  <em>This is ME, Juan Antonio Marquez, a Full-Stack developer specialised in <b>React and NodeJs</b>, with extensive knowledge in web and mobile applications, rest api, server maintenance and administration and data analysis.</em>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-antonio-marquez/" target="blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/174857.png" alt="linkedin" height="40" width="40"/></a>
+   <a href = "mailto: bymarquezz2@gmail.com"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Gmail_icon_(2020).svg.png" height="40" width="50" alt="gmail"/></a>
+  <a href="https://www.instagram.com/maarquez_10?igsh=MTQzbW11MTEyajJ0dw%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Logo-Instagram-PNG.png" alt="instagram" height="50" width="50"/></a>
+</p>
 
-# <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/cubo.png" width="35" heigth="35"> Sobre mi
-
-- 👋 Hola, me llamo Juan Antonio Márquez
-- 🌍 Vivo en Granada, España
-- 🙋‍♂️ Técnico Superior en Desarrollo de Aplicaciones Web
-- 📫 Para contactarme bymarquezz2@gmail.com
+<h1 align="center">📱 Main projects</h1>
 <br>
+<p>
+    <a href="https://github.com/ByMarqueZz/private-cloud" target="blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.38.19.png" alt="Private Cloud"/></kbd></a>
+  <br><br>
+  <a href="https://github.com/ByMarqueZz/cloudinghub" target="blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.43.58.png" alt="Cloudinghub"/></kbd></a>
+  <br><br>
+  <a href="https://github.com/ByMarqueZz/easy-chat" target="blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.54.30.png" alt="Easy Chat"/></kbd></a>
+</p>
+
+
+<h1 align="center">⌨️🖱️ Skills</h1>
+<p>
+  <kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2013.58.49.png"></kbd>
+</p>
+
+<br><br>
+<h1 align="center">📸 Some memes</h1>
 <p align="center">
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/gato.gif" width="200" heigth="200">
-</p>
-
-# 🖥Tecnologías que uso
-<p align="center">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/html.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/css.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/mysql.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/js.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/py.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/oracle.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/php.svg" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/2560px-Node.js_logo.svg.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/vue.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/AngularJS-Shield.svg" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/React-icon.svg.png" width="100" heigth="100">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/1200px-Laravel.svg.png" width="100" heigth="100">
-</p>
-<br><br>
-<p align="center">
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/meme.jpeg" width="200" heigth="200">
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/meme2.jpeg" width="200" heigth="200">
 </p>
