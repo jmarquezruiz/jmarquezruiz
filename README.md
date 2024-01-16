@@ -9,19 +9,19 @@
   <em>This is ME, Juan Antonio Marquez, a Full-Stack developer specialised in <b>React and NodeJs</b>, with extensive knowledge in web and mobile applications, rest api, server maintenance and administration and data analysis.</em>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-antonio-marquez/" target="blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/174857.png" alt="linkedin" height="40" width="40"/></a>
+  <a href="https://www.linkedin.com/in/juan-antonio-marquez/" target="_blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/174857.png" alt="linkedin" height="40" width="40"/></a>
    <a href = "mailto: bymarquezz2@gmail.com"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Gmail_icon_(2020).svg.png" height="40" width="50" alt="gmail"/></a>
-  <a href="https://www.instagram.com/maarquez_10?igsh=MTQzbW11MTEyajJ0dw%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Logo-Instagram-PNG.png" alt="instagram" height="50" width="50"/></a>
+  <a href="https://www.instagram.com/maarquez_10?igsh=MTQzbW11MTEyajJ0dw%3D%3D&utm_source=qr" target="_blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Logo-Instagram-PNG.png" alt="instagram" height="50" width="50"/></a>
 </p>
 
 <h1 align="center">📱 Main projects</h1>
 <br>
 <p>
-    <a href="https://github.com/ByMarqueZz/private-cloud" target="blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.38.19.png" alt="Private Cloud"/></kbd></a>
+    <a href="https://github.com/ByMarqueZz/private-cloud" target="_blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.38.19.png" alt="Private Cloud"/></kbd></a>
   <br><br>
-  <a href="https://github.com/ByMarqueZz/cloudinghub" target="blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.43.58.png" alt="Cloudinghub"/></kbd></a>
+  <a href="https://github.com/ByMarqueZz/cloudinghub" target="_blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.43.58.png" alt="Cloudinghub"/></kbd></a>
   <br><br>
-  <a href="https://github.com/ByMarqueZz/easy-chat" target="blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.54.30.png" alt="Easy Chat"/></kbd></a>
+  <a href="https://github.com/ByMarqueZz/easy-chat" target="_blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.54.30.png" alt="Easy Chat"/></kbd></a>
 </p>
 
 
