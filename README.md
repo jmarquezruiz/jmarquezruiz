@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/fondo-header3.png" height="300">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/fondo-header3pegas.png" height="300">
 </p>
 <h1 align="center">💻 Hi, I'm Juan Antonio</h1>
 <h3 align="center">
