@@ -28,7 +28,7 @@
 
 <h1 align="center">⌨️🖱️ Skills</h1>
 <p>
-  <kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2013.58.49.png"></kbd>
+  <kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-25%20a%20las%201.58.29.png"></kbd>
 </p>
 
 <br><br>
