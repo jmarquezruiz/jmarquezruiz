@@ -39,4 +39,6 @@
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/meme2.jpeg" width="200" heigth="200">
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/youtube-video-gif.gif" width="200" heigth="200">
   <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/nest2.png" width="200" heigth="200">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/349554f1b2e9eb238144bfc2966d8cb8.jpg" width="200" heigth="200">
+  <img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-02-01%20a%20las%208.43.00.png" width="200" heigth="200">
 </p>
