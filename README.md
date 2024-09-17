@@ -16,10 +16,11 @@
 </p>
 
 <h1 align="center">📊 Statistics</h1>
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bymarquezz&theme=radical" alt="stats"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymarquezz&layout=compact&theme=radical" alt="Top Langs"/>
-</div>
+</p>
 
 <br><br>
 <h1 align="center">📸 Some memes</h1>
