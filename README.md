@@ -15,21 +15,11 @@
   <a href="https://www.instagram.com/maarquez_10?igsh=MTQzbW11MTEyajJ0dw%3D%3D&utm_source=qr" target="_blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Logo-Instagram-PNG.png" alt="instagram" height="50" width="50"/></a>
 </p>
 
-<h1 align="center">📱 Main projects</h1>
-<br>
-<p>
-    <a href="https://github.com/ByMarqueZz/private-cloud" target="_blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.38.19.png" alt="Private Cloud"/></kbd></a>
-  <br><br>
-  <a href="https://github.com/ByMarqueZz/cloudinghub" target="_blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.43.58.png" alt="Cloudinghub"/></kbd></a>
-  <br><br>
-  <a href="https://github.com/ByMarqueZz/easy-chat" target="_blank" align="center"><kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-16%20a%20las%2010.54.30.png" alt="Easy Chat"/></kbd></a>
-</p>
-
-
-<h1 align="center">⌨️🖱️ Skills</h1>
-<p>
-  <kbd><img src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Captura%20de%20pantalla%202024-01-25%20a%20las%201.58.29.png"></kbd>
-</p>
+<h1 align="center">Stats</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bymarquezz&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymarquezz&layout=compact&theme=radical" alt="Top Langs"/>
+</div>
 
 <br><br>
 <h1 align="center">📸 Some memes</h1>
