@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/maarquez_10?igsh=MTQzbW11MTEyajJ0dw%3D%3D&utm_source=qr" target="_blank"><img align="center" src="https://github.com/ByMarqueZz/ByMarqueZz/blob/main/img/Logo-Instagram-PNG.png" alt="instagram" height="50" width="50"/></a>
 </p>
 
-<h1 align="center">Stats</h1>
+<h1 align="center">📊 Statistics</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bymarquezz&theme=radical" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymarquezz&layout=compact&theme=radical" alt="Top Langs"/>
