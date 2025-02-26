@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">💻 Hi, I'm Juan Antonio</h1>
 <h3 align="center">
-  Full Stack Junior Developer | Web & Mobile apps | DevOps & CI/CD
+  Full Stack Junior Developer | Web & Mobile apps | DevOps & Cloud
 </h3>
 <p align="center">
   <em>This is ME, Juan Antonio Marquez, a Full-Stack developer specialised in <b>React and NodeJs</b>, with extensive knowledge in web and mobile applications, rest api, server maintenance and administration and data analysis.</em>
