@@ -6,7 +6,7 @@
   Full Stack Junior Developer | Web & Mobile apps | DevOps & Cloud
 </h3>
 <p align="center">
-  <em>This is ME, Juan Antonio Marquez, a Full-Stack developer specialised in <b>React and NodeJs</b>, with extensive knowledge in web and mobile applications, rest api, server maintenance and administration and data analysis.</em>
+  <em>This is ME, Juan Antonio Marquez, a Full-Stack developer specialised in <b>React and NodeJs</b>, with extensive knowledge in web and mobile applications, rest api, server maintenance and data analysis.</em>
 </p>
 
 <p align="center">
