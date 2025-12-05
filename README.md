@@ -24,12 +24,12 @@
 <div align="center">
 
 ```
-OS: Full Stack Developer
-Kernel: Next.js • Laravel • TypeScript
-Shell: REST APIs & Mobile Development
-Packages: Docker, AWS, Plesk, MySQL
-WM: DevOps Enthusiast | Cloud Architect
-Theme: Clean Code & Best Practices
+> OS: Full Stack Developer
+> Kernel: Next.js • Laravel • TypeScript
+> Shell: REST APIs & Mobile Development
+> Packages: Docker, AWS, Plesk, MySQL
+> WM: DevOps Enthusiast | Cloud Architect
+> Theme: Clean Code & Best Practices
 ```
 
 </div>
