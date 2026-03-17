@@ -64,7 +64,7 @@
 
 | **Terminal** | **Protocolo** | **Puerto** |
 |:------------:|:-------------:|:----------:|
-| 📧 | `jmarquez@gmail:~$ mail` | [bymarquezz2@gmail.com](mailto:bymarquezz2@gmail.com) |
+| 📧 | `jmarquez@gmail:~$ mail` | [info@jmarquez.dev](mailto:info@jmarquez.dev) |
 | 💼 | `jmarquez@linkedin:~$ connect` | [/juan-antonio-marquez](https://www.linkedin.com/in/juan-antonio-marquez/) |
 | 📷 | `jmarquez@instagram:~$ follow` | [@maarquez_10](https://www.instagram.com/maarquez_10) |
 
